@@ -1,0 +1,6 @@
+{
+  "appTitle": "omdb_renamer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
